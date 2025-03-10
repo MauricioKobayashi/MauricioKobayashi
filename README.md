@@ -1,13 +1,13 @@
-# 👨‍💻 Daniel Julião
+# 👾 Mauricio Kobayashi
 
-**`Desenvolvedor [Front-end/Back-end/Full-stack]`**
+Olá, sou o Mauricio e esse é o meu perfil do GitHub!
 
-Tenho 25 anos, sou de São Paulo e concluí o ensino superior em **Análise e Desenvolvimento de Sistemas** pela **UNIP**. Atualmente, trabalho como **Professor** no ensino médio técnico da **FIAP**, onde ministro aulas de **Front-end** e **Projeto e Desenvolvimento de Sistemas**.
-
-Sou apaixonado por tecnologia e adoro compartilhar conhecimento. Aqui no GitHub, você encontrará projetos pessoais, dicas e materiais que desenvolvo para ajudar outros entusiastas da área.
-
-- 🌍 **Localização:** São Paulo, Brasil
+- 📚 Ensino Médio Técnico em TI - Fiap School
 - 🎯 **Objetivo:** Inspirar e capacitar futuros desenvolvedores através da educação e do compartilhamento de conhecimento
+
+<br/>
+
+🌐 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliaodaniel/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyelpj412@gmail.com)
@@ -113,15 +113,6 @@ Sou apaixonado por tecnologia e adoro compartilhar conhecimento. Aqui no GitHub,
 <br/>
 
 ---
-
-### 🌱 O Que Estou Aprendendo
-<p>
-Atualmente, estou focado em aprender e aprimorar minhas habilidades em:
-
-- Python
-- Node JS
-- AI
-<p/>
 
 ### 📊 Estatísticas de meus repositorios ##
 
